@@ -1,5 +1,3 @@
-## Bem vindo ao meu perfil!
-#### Estudante do curso de Desenvolvimento de Sistemas integrado ao ensino médio.
 <div>
     <a href="https://github.com/guilhermegarrote">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=guilhermegarrote&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true">
